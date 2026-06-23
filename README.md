@@ -37,8 +37,8 @@ A full-stack web application built with Laravel for managing products with a com
 
 ## Installation
 ```bash
-git clone https://github.com/Abdallah-Hefzy/To_do_app.git
-cd To_do_app
+git clone https://github.com/Abdallah-Hefzy/Laravel-Products-Management.git
+cd Laravel-Products-Management
 composer install
 cp .env.example .env
 php artisan key:generate
